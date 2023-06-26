@@ -12,8 +12,8 @@ email=nna-ina@big.go.id
 
 about=This plugin is for generate gazetteer pdf from layer vector data.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/nna-ina/gazetteer_creator/issues
+repository=https://github.com/nna-ina/gazetteer_creator
 # End of mandatory metadata
 
 # Recommended items:
