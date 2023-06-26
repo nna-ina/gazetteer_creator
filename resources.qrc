@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/gazetteer_creator" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
