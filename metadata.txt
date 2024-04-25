@@ -6,7 +6,7 @@
 name=Gazetteer Creator
 qgisMinimumVersion=3.0
 description=This plugin is for generate gazetteer pdf from layer vector data.
-version=0.1
+version=0.1.1
 author=BIG - UNGEGN
 email=nna-ina@big.go.id
 
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python, gazetteer, pdf
 
-homepage=https://unstats.un.org/unsd/geoinfo/ungegn/geonames.html
+homepage=https://github.com/nna-ina/gazetteer_creator
 category=Plugins
 icon=icon.png
 # experimental flag
